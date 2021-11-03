@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - ⚡ Fun fact: There are fewer submarines in the sky than airplanes in the sea.
-- 📫 Visit my website (under construction)
+- 📫 Visit my website (under construction) https://andromeda-inn.netlify.app/ 
 <!--
 **BaraKona/BaraKona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
