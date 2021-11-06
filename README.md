@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there stranger👋
 
 - ⚡ Fun fact: There are fewer submarines in the sky than airplanes in the sea.
 - 📫 Visit my personal project website (under construction) @ https://andromeda-inn.netlify.app/ 
