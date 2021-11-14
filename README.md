@@ -6,11 +6,11 @@
 - 🤔 ?
 
 <!--Github Stats-->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BaraKona&theme=dracula" />
+<a href="https://github.com/BaraKona">
+  <img align="center" style="display:block; margin:auto;" src="https://github-readme-stats.vercel.app/api?username=BaraKona&theme=dracula"/>
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaraKona&exclude_repo=Wordpress&theme=dracula" />
+<a href="https://github.com/BaraKona">
+  <img align="center" style="display:block; margin:auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaraKona&exclude_repo=Wordpress&layout=compact&theme=dracula"/>
 </a>
 
 <!--
