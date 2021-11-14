@@ -3,7 +3,7 @@
 - ⚡ Fun fact: There are fewer submarines in the sky than airplanes in the sea.
 - 📫 Visit my personal project website (under construction) @ https://andromeda-inn.netlify.app/ 
 - 🌱 I’m currently learning react redux & querying data from mongoDB
-- 🤔 I’m looking for help with life in general tbh
+- 🤔 ?
 <!--
 **BaraKona/BaraKona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
