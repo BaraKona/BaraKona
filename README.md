@@ -6,7 +6,8 @@
 - 🤔 ?
 <!--Github Stats-->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaraKona&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaraKona&layout=compact&theme=dracula&&exclude_repo=wordPress)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaraKona&layout=compact&theme=dracula&exclude_repo=wordPress)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BaraKona&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
