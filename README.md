@@ -6,13 +6,14 @@
 - 🤔 ?
 
 <!--Github Stats-->
-<a href="https://github.com/BaraKona">
-  <img align="center" style="max-width: 300px" src="https://github-readme-stats.vercel.app/api?username=BaraKona&theme=dracula"/>
-</a>
-<a href="https://github.com/BaraKona">
-  <img align="center" style="max-width: 300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaraKona&exclude_repo=Wordpress&layout=compact&theme=dracula"/>
-</a>
-
+<div style="display:flex; background-color: black;">
+  <a href="https://github.com/BaraKona">
+    <img align="center" style="max-width: 300px" src="https://github-readme-stats.vercel.app/api?username=BaraKona&theme=dracula"/>
+  </a>
+  <a href="https://github.com/BaraKona">
+    <img align="center" style="max-width: 300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaraKona&exclude_repo=Wordpress&layout=compact&theme=dracula"/>
+  </a>
+</div>
 <!--
 **BaraKona/BaraKona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
