@@ -4,10 +4,14 @@
 - 📫 Visit my personal project website (under construction) @ https://andromeda-inn.netlify.app/ 
 - 🌱 I’m currently learning react redux & querying data from mongoDB
 - 🤔 ?
-<!--Github Stats-->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaraKona&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaraKona&exclude_repo=Wordpress&layout=compact&theme=dracula)]
 
+<!--Github Stats-->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BaraKona&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaraKona&exclude_repo=Wordpress&layout=compact&theme=dracula" />
+</a>
 
 <!--
 **BaraKona/BaraKona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
