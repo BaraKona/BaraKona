@@ -3,10 +3,7 @@
 <details><summary>CLICK ME</summary>
 <p>
 
-
-    ```javascript
-      console.log("Hi")
-    ```
+fggdg
 
 </p>
 </details>
