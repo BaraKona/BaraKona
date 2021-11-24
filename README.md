@@ -17,13 +17,15 @@ console.log("Your life does not have to revolve around code")
 - 🌱 I’m currently learning react redux & querying data from mongoDB
 - 🤔 ?
 
+<a href="https://andromeda-inn.netlify.app/">See my Passion Project</a>
+
 <hr/>
 
 ```javascript
 const Bara = {
     languages: ["Javascript", "Java"],
     aboutMe: ["web dev", "tech", "reading", "drawing", "creative writing"],
-    passionProject: "https://andromeda-inn.netlify.app/",
+    passionProject: "Andromeda Inn",
     technologies: {
        frontEnd: {
             js: ["react", "vue", "three"]
