@@ -50,7 +50,7 @@ const Bara = {
     <img align="center" style="max-width: 300px" src="https://github-readme-stats.vercel.app/api?username=BaraKona&theme=dracula"/>
   </a>
   <a href="https://github.com/BaraKona">
-    <img align="center" style="max-width: 300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaraKona&exclude_repo=Wordpress&layout=compact&theme=dracula"/>
+    <img align="center" style="max-width: 300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaraKona&exclude_repo=Wordpress&theme=dracula"/>
   </a>
 </div>
 
