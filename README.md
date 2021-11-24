@@ -18,7 +18,7 @@ console.log("Your life does not have to revolve around code")
 - 🤔 ?
 
 <div>
-    <a href="https://andromeda-inn.netlify.app/">Passion Project</a><br>
+    <a style="padding:10px; background-color: black;" href="https://andromeda-inn.netlify.app/">Passion Project</a>
     <a href="https://www.linkedin.com/in/bara-kona/">LinkedIn</a>
     <a href="bkonateh1@gmail.com"> Email </a>
 </div>
