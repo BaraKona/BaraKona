@@ -1,5 +1,12 @@
 ### Hello there stranger👋
 
+
+<div style="display:block; width:300px; margin:auto;">
+    <p>⚡ Fun fact: There are fewer submarines in the sky than airplanes in the sea.</p>
+</div>
+
+<hr/>
+
 - ⚡ Fun fact: There are fewer submarines in the sky than airplanes in the sea.
 - 📫 Visit my personal project website (under construction) @ https://andromeda-inn.netlify.app/ 
 - 🌱 I’m currently learning react redux & querying data from mongoDB
