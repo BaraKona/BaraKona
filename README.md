@@ -1,10 +1,5 @@
 ### Hello there stranger👋
 
-
-<div style="display:block; width:300px; margin:auto;">
-    <p> ji</p>
-</div>
-
 <hr/>
 
 - ⚡ Fun fact: There are fewer submarines in the sky than airplanes in the sea.
