@@ -9,6 +9,7 @@
 const Bara = {
     languages: ["Javascript", "Java"],
     aboutMe: ["web dev", "tech", "reading", "drawing", "creative writing"],
+    passionProject: "https://andromeda-inn.netlify.app/"
     technologies: {
        frontEnd: {
             js: ["react", "vue", "three"]
