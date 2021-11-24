@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning react redux & querying data from mongoDB
 - 🤔 ?
 
+<hr/>
 ```javascript
 const Bara = {
     languages: ["Javascript", "Java"],
@@ -22,6 +23,9 @@ const Bara = {
     }
 };
 ```
+
+<hr/>
+
 <!--Github Stats-->
 <div style="display:flex; background-color: black;">
   <a href="https://github.com/BaraKona">
