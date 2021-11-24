@@ -5,8 +5,8 @@
 
 #### We can hide anything, even code!
 
-    ```ruby
-      puts "Hello World"
+    ```java
+      system.out.println("Why, hello there");
     ```
 
 </p>
