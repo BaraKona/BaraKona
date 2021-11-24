@@ -17,8 +17,11 @@ console.log("Your life does not have to revolve around code")
 - 🌱 I’m currently learning react redux & querying data from mongoDB
 - 🤔 ?
 
-<a href="https://andromeda-inn.netlify.app/">See my Passion Project</a>
-
+<div>
+    <a href="https://andromeda-inn.netlify.app/">Passion Project</a><br>
+    <a href="https://www.linkedin.com/in/bara-kona/">LinkedIn</a>
+    <a href="bkonateh1@gmail.com"> Email </a>
+</div>
 <hr/>
 
 ```javascript
