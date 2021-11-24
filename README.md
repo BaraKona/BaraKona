@@ -1,5 +1,17 @@
 ### Hello there stranger👋
 
+<details><summary>CLICK ME</summary>
+<p>
+
+#### We can hide anything, even code!
+
+    ```ruby
+      puts "Hello World"
+    ```
+
+</p>
+</details>
+
 <hr/>
 
 - ⚡ Fun fact: There are fewer submarines in the sky than airplanes in the sea.
