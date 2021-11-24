@@ -5,10 +5,21 @@
 - 🌱 I’m currently learning react redux & querying data from mongoDB
 - 🤔 ?
 
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
+```javascript
+const Bara = {
+    languages: ["Javascript", "Java"],
+    aboutMe: ["web dev", "tech", "reading", "drawing", "creative writing"],
+    technologies: {
+       frontEnd: {
+            js: ["react", "vue", "three"]
+       },
+       backEnd: {
+            js: ["node", "express"],
+        },
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "mongoDBAtlas", "netlify"]
+    }
+};
 ```
 <!--Github Stats-->
 <div style="display:flex; background-color: black;">
