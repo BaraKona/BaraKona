@@ -1,4 +1,4 @@
-### Hello there stranger👋
+### ✨ _Hello there_ ✨ stranger👋
   <img style="height: 100px; width: 100px;" src="https://res.cloudinary.com/andromeda-inn/image/upload/v1637788763/Icons/circle_2_shjutw.svg"/>
 
 <details><summary>CLICK ME FOR SOME WORDS OF WISDOM</summary>
@@ -47,10 +47,12 @@ const Bara = {
 <!--Github Stats-->
 <div style="display:flex; background-color: black;">
   <a href="https://github.com/BaraKona">
-    <img align="center" style="max-width: 300px" src="https://github-readme-stats.vercel.app/api?username=BaraKona&theme=dracula"/>
+    <img align="center"
+      style="max-width: 300px"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaraKona&exclude_repo=Wordpress&theme=dracula"/>
   </a>
-  <a href="https://github.com/BaraKona">
-    <img align="center" style="max-width: 300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaraKona&exclude_repo=Wordpress&theme=dracula"/>
+    <a href="https://github.com/BaraKona">
+    <img align="center" style="max-width: 300px" src="https://github-readme-stats.vercel.app/api?username=BaraKona&theme=dracula"/>
   </a>
 </div>
 
