@@ -2,7 +2,7 @@
 
 
 <div style="display:block; width:300px; margin:auto;">
-    <p>⚡ Fun fact: There are fewer submarines in the sky than airplanes in the sea.</p>
+    <p> ji</p>
 </div>
 
 <hr/>
