@@ -1,10 +1,10 @@
 ### Hello there stranger👋
 
-<details><summary>CLICK ME</summary>
+<details><summary>CLICK ME FOR SOME RANDOM WORDS OF WISDOM</summary>
 <p>
 
 ```javascript
-console.log("heyo")
+console.log("Your life does not have to revolve around code")
 ```
 
 </p>
