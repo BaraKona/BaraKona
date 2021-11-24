@@ -3,10 +3,9 @@
 <details><summary>CLICK ME</summary>
 <p>
 
-#### We can hide anything, even code!
 
-    ```java
-      system.out.println("Why, hello there");
+    ```javascript
+      console.log("Hi")
     ```
 
 </p>
