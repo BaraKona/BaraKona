@@ -1,6 +1,6 @@
 ### Hello there stranger👋
 
-<details><summary>CLICK ME FOR SOME RANDOM WORDS OF WISDOM</summary>
+<details><summary>CLICK ME FOR SOME WORDS OF WISDOM</summary>
 <p>
 
 ```javascript
