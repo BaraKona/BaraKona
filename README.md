@@ -5,21 +5,11 @@
 - 🌱 I’m currently learning react redux & querying data from mongoDB
 - 🤔 ?
 
-const Naveen = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Java"],
-    askMeAbout: ["web dev", "tech", "app dev", "music", "eddie vedder", "chris cornell"],
-    technologies: {
-       mobileApp: ["Android App"],
-       backEnd: {
-            js: ["node", "express", "hapi"],
-        },
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO"]
-    },
-    architecture: ["microservices", "event-driven"],
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
 <!--Github Stats-->
 <div style="display:flex; background-color: black;">
   <a href="https://github.com/BaraKona">
