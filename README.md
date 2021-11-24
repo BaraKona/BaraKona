@@ -4,21 +4,7 @@
 <p>
 
 ```javascript
-const Bara = {
-    languages: ["Javascript", "Java"],
-    aboutMe: ["web dev", "tech", "reading", "drawing", "creative writing"],
-    passionProject: "https://andromeda-inn.netlify.app/",
-    technologies: {
-       frontEnd: {
-            js: ["react", "vue", "three"]
-       },
-       backEnd: {
-            js: ["node", "express"],
-        },
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "mongoDBAtlas", "netlify"]
-    }
-};
+console.log("heyo")
 ```
 
 </p>
