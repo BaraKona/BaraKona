@@ -1,4 +1,5 @@
 ### Hello there stranger👋
+  <img style="height: 100px; width: 100px;" src="https://res.cloudinary.com/andromeda-inn/image/upload/v1637788763/Icons/circle_2_shjutw.svg"/>
 
 <details><summary>CLICK ME FOR SOME WORDS OF WISDOM</summary>
 <p>
@@ -18,9 +19,8 @@ console.log("Your life does not have to revolve around code")
 - 🤔 ?
 
 <div>
-    <a style="padding:10px; background-color: black;" href="https://andromeda-inn.netlify.app/">Passion Project</a>
+    <a style="padding:10px; background-color: black;" href="https://andromeda-inn.netlify.app/">Project</a>
     <a href="https://www.linkedin.com/in/bara-kona/">LinkedIn</a>
-    <a href="bkonateh1@gmail.com"> Email </a>
 </div>
 <hr/>
 
@@ -53,6 +53,9 @@ const Bara = {
     <img align="center" style="max-width: 300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaraKona&exclude_repo=Wordpress&layout=compact&theme=dracula"/>
   </a>
 </div>
+
+<hr/>
+
 <!--
 **BaraKona/BaraKona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
