@@ -25,7 +25,7 @@ console.log("Your life does not have to revolve around code")
 <hr/>
 
 ```javascript
-const Bara = {
+let Bara = {
     languages: ["Javascript", "Java"],
     aboutMe: ["web dev", "tech", "reading", "drawing", "creative writing"],
     passionProject: "Andromeda Inn",
