@@ -34,7 +34,7 @@ let Bara = {
             js: ["react", "vue", "three"]
        },
        backEnd: {
-            js: ["node", "express"],
+            js: ["node", "express"]
         },
         databases: ["mongo", "MySql", "sqlite"],
         misc: ["Firebase", "mongoDBAtlas", "netlify"]
