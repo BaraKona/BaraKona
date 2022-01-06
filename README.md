@@ -15,7 +15,7 @@ console.log("Your life does not have to revolve around code ;)")
 
 - ⚡ Fun fact: There are fewer submarines in the sky than airplanes in the sea.
 - 📫 Visit my personal project website (under construction) @ https://andromeda-inn.netlify.app/ 
-- 🌱 I’m currently learning react redux & querying data from mongoDB
+- 🌱 I’m currently learning data optimisation 
 - 🤔 ?
 
 <div>
