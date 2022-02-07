@@ -56,7 +56,7 @@ let Bara = {
   </a>
 </div>
 
-<hr/>
+<hr style="color: red;"/>
 
 <!--
 **BaraKona/BaraKona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
