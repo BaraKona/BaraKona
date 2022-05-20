@@ -20,6 +20,7 @@ console.log("Your life does not have to revolve around code ;)")
 - 🤔 ?
 
 <div>
+    <a href="http://www.barakona.com/"> Personal Site </a>
     <a style="padding:10px; background-color: black;" href="https://andromeda-inn.netlify.app/">Project</a>
     <a href="https://www.linkedin.com/in/bara-kona/">LinkedIn</a>
 </div>
