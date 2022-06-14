@@ -5,7 +5,7 @@
 <p>
 
 ```javascript
-console.log("Your life does not have to revolve around code ;)")
+console.log("Some words of wisdom ;)")
 ```
 
 </p>
