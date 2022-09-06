@@ -13,64 +13,10 @@ console.log("Some words of wisdom ;)")
 
 <hr/>
 
-- ⚡ Fun fact: There are fewer submarines in the sky than airplanes in the sea.
-- 🔭 Checkout my Portfolio: http://www.barakona.com/
-- 📫 Visit my personal project website (under construction) @ https://andromeda-inn.netlify.app/ 
-- 🌱 I’m currently learning web sockets
-- 🤔 ?
+- ⚡ ### What I am learning ?
 
-<div>
-    <a href="http://www.barakona.com/"> Personal Site </a>
-    <a style="padding:10px; background-color: black;" href="https://andromeda-inn.netlify.app/" target="_blank" rel="noreferrer">Project</a>
-    <a href="https://www.linkedin.com/in/bara-kona/" target="_blank" rel="noreferrer">LinkedIn</a>
-</div>
-<hr/>
+The course is complete, yet accessible for beginners. Covering what WebGL is and why using the Three.js library is a must. The various components of Three.js as well as advanced techniques to display millions of particles, add physics, add interactions, create a galaxy, animate a raging sea, etc.
 
-```javascript
-let Bara = {
-    languages: ["Javascript", "Java"],
-    aboutMe: ["web dev", "tech", "reading", "drawing", "creative writing"],
-    passionProject: "Andromeda Inn",
-    technologies: {
-       frontEnd: {
-            js: ["react", "vue", "three"]
-       },
-       backEnd: {
-            js: ["node", "express"]
-        },
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "mongoDBAtlas", "netlify"]
-    }
-};
-```
+At the end of the course, I should have a deep understanding of Three.js and enough experience to start your own projects.
 
-<hr/>
-
-<!--Github Stats-->
-<div style="display:flex; background-color: black;">
-  <a href="https://github.com/BaraKona">
-    <img align="center"
-      style="max-width: 300px"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaraKona&exclude_repo=Wordpress&theme=dracula"/>
-  </a>
-    <a href="https://github.com/BaraKona">
-    <img align="center" style="max-width: 300px" src="https://github-readme-stats.vercel.app/api?username=BaraKona&theme=dracula"/>
-  </a>
-</div>
-
-<hr style="color: red;"/>
-
-<!--
-**BaraKona/BaraKona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As a bonus, the course also teaches how to use the 3D software Blender to be able to create our own models.
