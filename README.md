@@ -27,19 +27,20 @@ console.log("Some words of wisdom ;)")
 <hr/>
 
 ```javascript
-let Bara = {
-    languages: ["Javascript", "Java"],
+const baraKona = {
+    languages: ["Javascript", "Java", "TypeScript"],
     aboutMe: ["web dev", "tech", "reading", "drawing", "creative writing"],
     passionProject: "Andromeda Inn",
     technologies: {
        frontEnd: {
-            js: ["react", "vue", "three"]
+            js: ["react", "vue", "three", "next"]
        },
        backEnd: {
             js: ["node", "express"]
         },
         databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "mongoDBAtlas", "netlify"]
+        misc: ["Firebase", "mongoDBAtlas", "netlify", "reactQuery"],
+        cssFrameWorksLib: ["bootstrap", "tailwind", "mantine"]
     }
 };
 ```
