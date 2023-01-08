@@ -48,16 +48,10 @@ const baraKona = {
 <hr/>
 
 <!--Github Stats-->
-<div style="display:flex; background-color: black;">
-  <a href="https://github.com/BaraKona">
-    <img align="center"
-      style="max-width: 300px"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaraKona&exclude_repo=Wordpress&theme=dracula"/>
-  </a>
-    <a href="https://github.com/BaraKona">
-    <img align="center" style="max-width: 300px" src="https://github-readme-stats.vercel.app/api?username=BaraKona&theme=dracula"/>
-  </a>
-</div>
+| Languages             |  Stats |  Languages (again)  |
+:-------------------------:|:-------------------------: | :-------------------------: |
+|<img align="center" style="max-width: 300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaraKona&exclude_repo=Wordpress&theme=dracula"/> |<img align="center" style="max-width: 300px" src="https://github-readme-stats.vercel.app/api?username=BaraKona&theme=dracula"/> | <img align="center" style="max-width: 300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaraKona&exclude_repo=Wordpress&theme=dracula"/>
+
 
 <hr style="color: red;"/>
 
