@@ -24,12 +24,10 @@ console.log("Some words of wisdom ;)")
 - ⚡ Fun fact: There are fewer submarines in the sky than airplanes in the sea.
 - 🔭 Checkout my Portfolio: http://www.barakona.com/
 - 🤔 Visit my most recent site! @ https://writality.com/
-- 📫 Visit my personal project website (under construction) @ https://andromeda-inn.netlify.app/ 
 - 🌱 I’m currently learning web sockets
 
 <div>
     <a href="http://www.barakona.com/"> Personal Site </a>
-    <a style="padding:10px; background-color: black;" href="https://andromeda-inn.netlify.app/" target="_blank" rel="noreferrer">Project</a>
     <a href="https://www.linkedin.com/in/bara-kona/" target="_blank" rel="noreferrer">LinkedIn</a>
 </div>
 <hr/>
