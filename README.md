@@ -23,7 +23,7 @@ console.log("Some words of wisdom ;)")
 
 - ⚡ Fun fact: There are fewer submarines in the sky than airplanes in the sea.
 - 🔭 Checkout my Portfolio: http://www.barakona.com/
-- 🤔 Visit my most recent site! @ https://writality.com/
+- 🤔 Visit my most recent site! @ https://dailyscrawl.blog/
 - 🌱 I’m currently learning web sockets
 
 <div>
