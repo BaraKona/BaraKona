@@ -33,7 +33,7 @@ console.log("Some words of wisdom ;)")
 <hr/>
 
 ```javascript
-const baraKona = {
+let baraKona = {
     languages: ["Javascript", "Java", "TypeScript"],
     aboutMe: ["web dev", "tech", "reading", "drawing", "creative writing"],
     passionProject: "Andromeda Inn",
