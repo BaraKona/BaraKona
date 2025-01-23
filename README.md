@@ -29,6 +29,7 @@ console.log("Some words of wisdom ;)")
 <div>
     <a href="http://www.barakona.com/"> Personal Site </a>
     <a href="https://www.linkedin.com/in/bara-kona/" target="_blank" rel="noreferrer">LinkedIn</a>
+    <a href="https://www.yobbers.com/ref/SJ6A3L4EtCuoJQWgD4FFoR7k" target="_blank"> Working at Yobbers BV </a>
 </div>
 <hr/>
 
