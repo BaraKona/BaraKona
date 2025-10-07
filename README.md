@@ -20,17 +20,6 @@ console.log("Some words of wisdom ;)")
 </div>
 <hr/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=barakona&label=Profile%20views&color=0e75b6&style=flat" alt="barakona" /> </p>
-
-- ⚡ Fun fact: There are fewer submarines in the sky than airplanes in the sea.
-- 🔭 Checkout my Portfolio: http://www.barakona.com/
-- 🤔 Visit my most recent site! @ https://dailyscrawl.blog/
-- 🌱 I’m currently learning web sockets
-
-<div>
-    <a href="http://www.barakona.com/"> Personal Site </a>
-    <a href="https://www.linkedin.com/in/bara-kona/" target="_blank" rel="noreferrer">LinkedIn</a>
-    <a href="https://www.yobbers.com/ref/SJ6A3L4EtCuoJQWgD4FFoR7k" target="_blank"> Working at Yobbers BV </a>
-</div>
 <hr/>
 
 ```javascript
@@ -63,10 +52,6 @@ let baraKona = {
 <p align="center" style="display:flex; align-items: center; flex-gap: 30px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=barakona" alt="barakona" /></a> </p>
 
 <hr/>
-<p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bara-kona/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bara-kona/" height="30" width="40" /></a>
-<a href="https://instagram.com/barakona00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="barakona00" height="30" width="40" /></a>
-</p>
 
 <hr/>
 <h3 align="left">Languages and Tools:</h3>
