@@ -43,15 +43,7 @@ let baraKona = {
 
 <hr/>
 
-<!--Github Stats-->
-| Languages             |  Stats |  Languages (again)  |
-:-------------------------:|:-------------------------: | :-------------------------: |
-|<img align="center" style="max-width: 300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaraKona&exclude_repo=Wordpress&theme=dracula"/> |<img align="center" style="max-width: 300px" src="https://github-readme-stats.vercel.app/api?username=BaraKona&theme=dracula"/> | <img align="center" style="max-width: 300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaraKona&exclude_repo=Wordpress&theme=dracula"/>
-
-<hr/>
 <p align="center" style="display:flex; align-items: center; flex-gap: 30px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=barakona" alt="barakona" /></a> </p>
-
-<hr/>
 
 <hr/>
 <h3 align="left">Languages and Tools:</h3>
